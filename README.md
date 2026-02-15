@@ -2,7 +2,7 @@
 
 A modern, responsive healthcare platform built with React and Tailwind CSS that allows users to search for doctors and hospitals, view profiles, and book appointments with location-based services.
 
-![MediBook Preview](https://via.placeholder.com/800x400?text=MediBook+Preview)
+![MediBook Preview](./healhub.png)
 
 ## ✨ Features
 
